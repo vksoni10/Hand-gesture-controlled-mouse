@@ -30,7 +30,7 @@ Hand-Gesture-Controlled-Mouse/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository  
-git clone https://github.com/your-username/hand-gesture-controlled-mouse.git  
+git clone https://github.com/vksoni10/Hand-gesture-controlled-mouse.git 
 cd hand-gesture-controlled-mouse  
 
 2. (Optional) Create a virtual environment  
